@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:testapp/Screens/Read/read_screen.dart';
 import 'package:testapp/watch_renderer.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
